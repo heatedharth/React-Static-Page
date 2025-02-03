@@ -1,1 +1,0 @@
-# React-Static-Page
